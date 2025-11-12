@@ -1,0 +1,15 @@
+C:\Users\Ekrem Dinç\Desktop\Kart_Oyunu\Kart_Oyunu\bin\Debug\Kart_Oyunu.exe.config
+C:\Users\Ekrem Dinç\Desktop\Kart_Oyunu\Kart_Oyunu\bin\Debug\Kart_Oyunu.exe
+C:\Users\Ekrem Dinç\Desktop\Kart_Oyunu\Kart_Oyunu\bin\Debug\Kart_Oyunu.pdb
+C:\Users\Ekrem Dinç\Desktop\Kart_Oyunu\Kart_Oyunu\obj\Debug\Kart_Oyunu.csproj.AssemblyReference.cache
+C:\Users\Ekrem Dinç\Desktop\Kart_Oyunu\Kart_Oyunu\obj\Debug\Kart_Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ekrem Dinç\Desktop\Kart_Oyunu\Kart_Oyunu\obj\Debug\Kart_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem Dinç\Desktop\Kart_Oyunu\Kart_Oyunu\obj\Debug\Kart_Oyunu.exe
+C:\Users\Ekrem Dinç\Desktop\Kart_Oyunu\Kart_Oyunu\obj\Debug\Kart_Oyunu.pdb
+C:\Users\ekrmd\OneDrive\Desktop\Projeler\Kart_Oyunu\Kart_Oyunu\bin\Debug\Kart_Oyunu.exe.config
+C:\Users\ekrmd\OneDrive\Desktop\Projeler\Kart_Oyunu\Kart_Oyunu\bin\Debug\Kart_Oyunu.exe
+C:\Users\ekrmd\OneDrive\Desktop\Projeler\Kart_Oyunu\Kart_Oyunu\bin\Debug\Kart_Oyunu.pdb
+C:\Users\ekrmd\OneDrive\Desktop\Projeler\Kart_Oyunu\Kart_Oyunu\obj\Debug\Kart_Oyunu.csproj.AssemblyReference.cache
+C:\Users\ekrmd\OneDrive\Desktop\Projeler\Kart_Oyunu\Kart_Oyunu\obj\Debug\Kart_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ekrmd\OneDrive\Desktop\Projeler\Kart_Oyunu\Kart_Oyunu\obj\Debug\Kart_Oyunu.exe
+C:\Users\ekrmd\OneDrive\Desktop\Projeler\Kart_Oyunu\Kart_Oyunu\obj\Debug\Kart_Oyunu.pdb
